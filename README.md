@@ -1,12 +1,14 @@
 # projectalicegame.github.io
-Website for the mod Kaitlyn and friends were working on.
+Website for the mod Kaitlyn, 123a, and friends.
 
 # About
 
-This is a big mod of the game "Cave Story"! It's meant to be a story-focused, as well as gameplay focused, collect-a-thon platformer.
+This is a mod of Cave Story that adds many new features, with a new world!
 
-This mod is probably cancelled for the time being.
+We have no idea what to do with the mod though!! (aaa)
+
+This mod is in very slow development atm
 
 # Links
 
-Discord Server down.
+Discord Server for the development maybe going public soon idk :lisasmile:
