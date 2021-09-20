@@ -1,4 +1,4 @@
-# projectalicegame.github.io
+# celia-cs.github.io
 Website for the mod Kaitlyn, 123a, and friends.
 
 # About
@@ -11,4 +11,4 @@ This mod is in very slow development atm
 
 # Links
 
-Discord Server for the development maybe going public soon idk :lisasmile:
+Discord Server for the development maybe going public soon idk :lisahappy:
