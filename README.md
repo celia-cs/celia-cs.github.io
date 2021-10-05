@@ -7,7 +7,7 @@ This is a mod of Cave Story that adds many new features, with a new world!
 
 We have no idea what to do with the mod though!! (aaa)
 
-This mod is in very slow development atm
+This mod is in very active, but slow atm
 
 # Links
 
